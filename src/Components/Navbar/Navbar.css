@@ -1,14 +1,20 @@
 .navbar{
-  margin-left:100px;
-  margin-right: 100px;
-  font-size: small;
-  align-items: stretch;
   
+  font-size: small;
+ 
+  border-bottom: 1px solid rgb(236, 239, 241);
 }
 
 .navbar-links{
-    margin:0px 200px;
+   margin: 0 200px ;
+    display: flex;
+    flex: 6 1 0%;
+    justify-content: center;
     
     
+}
+
+.Nav-Link{
+  
 }
 

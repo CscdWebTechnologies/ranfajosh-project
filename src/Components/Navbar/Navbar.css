@@ -6,15 +6,22 @@
 }
 
 .navbar-links{
-   margin: 0 200px ;
+   margin-left: 0.8rem ;
     display: flex;
     flex: 6 1 0%;
     justify-content: center;
     
-    
 }
 
-.Nav-Link{
+.navbar-nav{
+  margin-right: 100px;
+}
+
+.navbar-brand{
+  margin-left: 100px;
+}
+.nav-link{
+  margin-right:30px;
   
 }
 

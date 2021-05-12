@@ -10,7 +10,7 @@ function TableSect() {
             <Container>
                           
             <Row className="border">
-                               <Col xs={1}> </Col>
+                               <Col xs={{span:1}}> </Col>
                               <Col xs={1}  className="p-3">#</Col>
                               
                               <Col xs={3}  className="p-3">Name</Col>

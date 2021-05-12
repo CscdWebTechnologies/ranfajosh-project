@@ -23,9 +23,9 @@
 .change{
     color:green;
 }
-.row{
-    background: rgb(255, 255, 255);
-    user-select: none;
+
+.border{
+    color:gray;
 }
 
 

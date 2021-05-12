@@ -1,0 +1,46 @@
+.section3{
+    margin: 50px 100px;
+}
+
+.earn-heading{
+    font-size: 37px;
+    font-weight: 550;
+    letter-spacing: 0rem;
+}
+
+.discover{
+    font-size: 14px;
+    line-height: 1.6;
+    font-weight: 400;
+    color: rgb(5, 15, 25);
+    display: block;
+    margin-right:150px;
+}
+
+.col-links{
+    margin-bottom: 50px;
+   
+}
+
+.earn{
+    color: green;
+    font-size: 17px;
+    font-weight: 500;
+  
+}
+
+.col-links:hover{
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-sizing: border-box;
+    height: 80px;
+    border-radius: 0.5rem;
+    border: none;
+    transition: color 0.25s ease 0.2s;
+}
+
+.view-tag{
+    display: block;
+    margin: 12px 0px 0px 24px;
+    font-weight: 500;
+}

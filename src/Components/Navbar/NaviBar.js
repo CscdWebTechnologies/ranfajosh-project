@@ -5,8 +5,8 @@ import {Nav, Navbar, Button} from 'react-bootstrap'
 
 export default function NaviBar() {
     return (
-        <div className="navbar d-flex justify-content-evenly">
-            <Navbar sticky="top">
+        <Navbar className="navbar d-flex justify-content-evenly">
+            {/* <Navbar sticky="top"> */}
                 <Navbar.Brand>
                 <Nav.Link><img src={logo} width="100" height="50" className="d-inline-block align-top" alt="coinbase"/></Nav.Link>
                 </Navbar.Brand>
@@ -24,11 +24,11 @@ export default function NaviBar() {
 
                 <Nav className="fw-bold">
                     <Nav.Link className="d-inline-block align-top mt-2">Sign in</Nav.Link>
-                   <Nav.Link> <Button size="sm">Get started</Button></Nav.Link>
+                   <Nav.Link> <Button className="button3" size="sm">Get started</Button></Nav.Link>
                 </Nav>
 
 
-            </Navbar>
-        </div>
+            {/* </Navbar> */}
+        </Navbar>
     )
 }

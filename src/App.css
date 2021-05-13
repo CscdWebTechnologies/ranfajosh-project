@@ -1,16 +1,13 @@
 .App{
-  margin-left: 50px;
-  margin-right: 50px;
   
 }
-
 .button3{
   background-color: rgb(38, 93, 245);
   color: white;
   border: none;
   font-size:15px;
   font-weight: 500;
-  border-radius: 0.5rem;
+  border-radius: 0.3rem;
   padding: 10px 20px;
   text-align: center;
   cursor: pointer;

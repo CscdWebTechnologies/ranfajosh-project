@@ -44,7 +44,7 @@ function Section3() {
 
              </div>
 
-             <a href="" className="view-tag d-flex justify-content-center"><p>View more > </p></a>
+             <a href="" className="view-tag d-flex justify-content-center"><p>View more {'>'} </p></a>
             
         </div>
     )

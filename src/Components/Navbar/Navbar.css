@@ -1,7 +1,7 @@
 .navbar{
   
   font-size: small;
- 
+  font-weight: bold;
   border-bottom: 1px solid rgb(236, 239, 241);
 }
 
@@ -14,7 +14,7 @@
 }
 
 .navbar-nav{
-  margin-right: 100px;
+   margin-right:60px;
 }
 
 .navbar-brand{

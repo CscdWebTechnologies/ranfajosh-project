@@ -9,7 +9,7 @@ import stellar from '../../Images/stellar.svg'
 function Section3() {
     return (
         <div className="row justify-content-evenly section3">
-             <div className="col-6 mt-5">
+             <div className="col-6 mt-5 col3">
                     <div className="me-5"><p className="earn-heading">Earn up to $25 worth of cypto</p></div>
                     <div className="discover"><p >Discover how specific cryptocurrencies work — and get a bit of each crypto to try out for yourself.</p></div>
                     <div><button className="button3">Start earning</button></div>
@@ -40,11 +40,11 @@ function Section3() {
                      <div className="col-7"><h4>Compound COMP</h4></div>
                      <div className="col-3"><p className="earn">Earn $9 COMP</p></div>
                 </div>
-
+                    
+             <a href="" ><p className="view-tag row">View more {'>'} </p></a>
 
              </div>
 
-             <a href="" className="view-tag d-flex justify-content-center"><p>View more {'>'} </p></a>
             
         </div>
     )

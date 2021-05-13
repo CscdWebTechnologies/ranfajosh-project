@@ -2,6 +2,14 @@
     margin: 50px 100px;
 }
 
+.col3{
+ 
+    justify-content: flex-start;
+    flex-direction: row;
+    flex: 1 1 50%;
+    width: 100%;
+}
+
 .earn-heading{
     font-size: 37px;
     font-weight: 550;
@@ -40,7 +48,7 @@
 }
 
 .view-tag{
-    display: block;
+  
     margin: 12px 0px 0px 24px;
     font-weight: 500;
 }

@@ -1,0 +1,38 @@
+.sect6{
+    background: rgb(22, 82, 240);
+}
+.section6{
+    display: flex;
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 1180px;
+    margin: 0px auto;
+    padding: 24px;
+}
+
+.columns{
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: row;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    margin: 40px 0px;
+}
+
+.colu6{
+    flex: 1 1 0%;
+    text-align: center;
+}
+
+.heading6{
+    margin: 0px 0px 12px;
+    line-height: 48px;
+    font-size: 56px;
+    font-weight: 600;
+}
+
+.sub6{
+    line-height: 24px;
+    font-size: 16px;
+    opacity: 0.7;
+}

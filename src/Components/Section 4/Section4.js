@@ -17,7 +17,7 @@ function Section4(){
                         </svg>
                         </Col>
                         <Col md={{span:9}}>
-                            <p>Manage your portfolio</p> 
+                            <p className="sideHeader">Manage your portfolio</p> 
                            <p>Buy and sell popular digital currencies, keep track of them in the one place.</p>
                         </Col>
                     </Row>
@@ -33,8 +33,8 @@ function Section4(){
                         </svg>
                         </Col>
                         <Col md={{span:9}}>
-                        <p>Manage your portfolio</p> 
-                           <p>Buy and sell popular digital currencies, keep track of them in the one place.</p>
+                        <p className="sideHeader">Recurring buys</p> 
+                           <p>Invest in cryptocurrency slowly over time by scheduling buys daily, weekly, or monthly.</p>
                         </Col>
                     </Row>
                     <Row>
@@ -48,8 +48,10 @@ function Section4(){
                             </path></svg>
                         </Col>
                         <Col md={{span:9}}>
-                        <p>Manage your portfolio</p> 
-                           <p>Buy and sell popular digital currencies, keep track of them in the one place.</p>
+                        <p className="sideHeader">Vault protection</p> 
+                           <p>For added security, store your funds in a vault with time delayed withdrawals.  </p>
+
+                      
                         </Col>
                     </Row>
                     <Row>
@@ -63,8 +65,8 @@ function Section4(){
                             </path></svg>
                         </Col>
                         <Col md={{span:9}}>
-                        <p>Manage your portfolio</p> 
-                           <p>Buy and sell popular digital currencies, keep track of them in the one place.</p>
+                        <p className="sideHeader">Mobile apps</p> 
+                           <p>Stay on top of the markets with the Coinbase app for Android or iOS.</p>
                         </Col>
                     </Row>   
                 </Col>

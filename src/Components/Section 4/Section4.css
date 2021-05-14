@@ -15,3 +15,10 @@
     justify-content: center;
     box-shadow: rgb(218 225 233 / 56%) 0px 8px 16px;
 }
+
+.sideHeader{
+    margin-top: 0px;
+    margin-bottom: 12px;
+    font-size: 20px;
+    font-weight: 500;
+}

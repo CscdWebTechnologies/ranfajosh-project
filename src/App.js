@@ -9,6 +9,7 @@ import Section6 from './Components/Section 6/Section6';
 import Heading3 from './Components/Headings/Heading3';
 import Section7 from './Components/Section7/Section7';
 import Section8 from './Components/Section 8/Section8';
+import Section4 from './Components/Section 4/Section4';
 
 
 
@@ -19,6 +20,7 @@ function App() {
         <TableSect/>
         <Section3/>
         <Heading1/>
+        <Section4/>
         <Heading2/>
         <Section5/>
         <Section6/>

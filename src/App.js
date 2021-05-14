@@ -8,6 +8,7 @@ import Section5 from './Components/Section 5/Section5';
 import Section6 from './Components/Section 6/Section6';
 import Heading3 from './Components/Headings/Heading3';
 import Section7 from './Components/Section7/Section7';
+import Section8 from './Components/Section 8/Section8';
 
 
 
@@ -23,6 +24,7 @@ function App() {
         <Section6/>
         <Heading3/>
         <Section7/>
+        <Section8/>
         </div>
         
     )

@@ -16,7 +16,7 @@ function Section8 () {
               Discover how specific cryptocurrencies work — and get a bit of
               each crypto to try out for yourself.
             </p>
-            <Button variant="primary" size="md" >
+            <Button variant="primary" size="md"  className="section8Button">
               Start earning
             </Button>
           </div>

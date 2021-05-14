@@ -1,0 +1,11 @@
+.earnText{
+    margin-top: 6rem;
+}
+
+
+.section8Col.container-fluid{
+    background-color: rgb(233, 246, 255);
+    height: 460px;
+    width: 100%;
+    overflow: hidden;
+}

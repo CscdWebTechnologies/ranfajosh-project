@@ -16,7 +16,10 @@ function Section4(){
                             </g>
                         </svg>
                         </Col>
-                        <Col md={{span:8}}></Col>
+                        <Col md={{span:9}}>
+                            <p>Manage your portfolio</p> 
+                           <p>Buy and sell popular digital currencies, keep track of them in the one place.</p>
+                        </Col>
                     </Row>
                     <Row>
                         <Col md={{span:2}} className="svgStyle">
@@ -29,7 +32,10 @@ function Section4(){
                             </g>
                         </svg>
                         </Col>
-                        <Col md={{span:8}}></Col>
+                        <Col md={{span:9}}>
+                        <p>Manage your portfolio</p> 
+                           <p>Buy and sell popular digital currencies, keep track of them in the one place.</p>
+                        </Col>
                     </Row>
                     <Row>
                         <Col md={{span:2}} className="svgStyle">
@@ -41,7 +47,10 @@ function Section4(){
                             <path d="M15 20.625c1.184 0 2.143-.923 2.143-2.063 0-1.139-.96-2.062-2.143-2.062-1.183 0-2.143.923-2.143 2.063 0 1.139.96 2.062 2.143 2.062z" fill="#fff">
                             </path></svg>
                         </Col>
-                        <Col md={{span:8}}></Col>
+                        <Col md={{span:9}}>
+                        <p>Manage your portfolio</p> 
+                           <p>Buy and sell popular digital currencies, keep track of them in the one place.</p>
+                        </Col>
                     </Row>
                     <Row>
                         <Col md={{span:2}}  className="svgStyle">
@@ -53,7 +62,10 @@ function Section4(){
                             <path d="M23.625 3.375h-11.25a1.128 1.128 0 01-1.124-1.125V1.125h13.5V2.25c0 .619-.507 1.125-1.126 1.125z" fill="#56B4FC"></path><path d="M15.75 32.063c0 .337.226.562.563.562h3.375c.338 0 .563-.225.563-.562 0-.338-.226-.563-.563-.563h-3.375c-.337 0-.562.225-.562.563z" fill="#fff">
                             </path></svg>
                         </Col>
-                        <Col md={{span:8}}></Col>
+                        <Col md={{span:9}}>
+                        <p>Manage your portfolio</p> 
+                           <p>Buy and sell popular digital currencies, keep track of them in the one place.</p>
+                        </Col>
                     </Row>   
                 </Col>
                 <Col sm={{span:8}} >

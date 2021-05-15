@@ -1,0 +1,31 @@
+.imageUI{
+    width: 110%;
+}
+
+.svgStyle.col-md-3{
+    margin-top: -8px;
+    flex-shrink: 0;
+    width: 72px;
+    height: 72px;
+    margin-right: 28px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(218 225 233 / 56%) 0px 8px 16px;
+    margin-bottom: 4.5rem;
+}
+
+.sideHeader{
+    margin-top: 0px;
+    margin-bottom: 12px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.sideText{
+    margin: 0px;
+    line-height: 1.6;
+    color: rgb(131, 143, 160);
+}

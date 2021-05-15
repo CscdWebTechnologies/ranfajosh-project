@@ -6,7 +6,7 @@ function Section8 () {
     
     return (
         <Container fluid className="section8Col">
-      <Row >
+      <Row  >
         <Col sm={{span:3, offset: 1}} xs="2" >
           <div className="earnText">
             <h2 >
@@ -22,7 +22,7 @@ function Section8 () {
           </div>
         </Col>
         <Col sm="2" xs="3">
-            <img src={earth} alt="earthlogo"/>
+            <img className="earth" src={earth} alt="earthlogo"/>
         </Col>
       </Row>
 </Container>

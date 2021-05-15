@@ -1,3 +1,8 @@
+.earth{
+    margin-left: 48px;
+}
+
+
 .earnText{
     margin-top: 6rem;
 }
@@ -6,6 +11,7 @@
 .section8Col.container-fluid{
     background-color: rgb(233, 246, 255);
     overflow: hidden;
+    margin-top: 100px;
 }
 
 .section8Button{

@@ -9,8 +9,10 @@ import Section5 from './Components/Section 5/Section5';
 import Section6 from './Components/Section 6/Section6';
 import Heading3 from './Components/Headings/Heading3';
 import Section7 from './Components/Section7/Section7';
+import Footer9 from './Components/Footer/Footer'
 import Section8 from './Components/Section 8/Section8';
 import Section4 from './Components/Section 4/Section4';
+
 
 
 
@@ -29,6 +31,8 @@ function App() {
         <Heading3/>
         <Section7/>
         <Section8/>
+        <Footer9/>
+
         </div>
         
     )

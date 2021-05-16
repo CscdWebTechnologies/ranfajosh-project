@@ -5,6 +5,7 @@ import earth from "../../Images/earth_astro.jpg"
 function Section8 () {
     
     return (
+        
         <Container fluid className="section8Col">
       <Row >
         <Col sm={{span:3, offset: 1}} xs="2" >

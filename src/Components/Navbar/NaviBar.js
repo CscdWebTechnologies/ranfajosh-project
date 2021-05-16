@@ -14,11 +14,6 @@ export default function NaviBar() {
                 
                     <Nav className="navbar-links fw-bold">
                         <Nav.Link >Prices</Nav.Link>
-<<<<<<< HEAD
-                        <Nav.Link>Learn</Nav.Link>
-                            
-                       
-=======
                         <Nav.Link className="learnlink1">Learn</Nav.Link>
                         <section className="dropdown-section">
                             <div className="dropdown-container">
@@ -60,7 +55,6 @@ export default function NaviBar() {
                                 </div>
                             </div>
                         </section>
->>>>>>> 1ee88c08c324ff861f600978975ac36e1da27913
                         <Nav.Link >Individuals</Nav.Link>
                         <Nav.Link >Businesses</Nav.Link>
                         <Nav.Link >Developers</Nav.Link>

@@ -1,6 +1,6 @@
 import './App.css';
 import Navbar from './Components/Navbar/NaviBar';
-import Section1 from './Components/Section 1/Section1';
+
 import TableSect from './Components/Section2(Table)/TableSect';
 import Section3 from './Components/Section3/Section3';
 import Heading1 from './Components/Headings/Heading1';

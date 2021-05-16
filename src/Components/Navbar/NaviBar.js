@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../../Images/coinbase_logo.svg';
 import './Navbar.css'
-import {Nav, Navbar, Button} from 'react-bootstrap'
+import {Nav, Navbar, Button, NavDropdown, Container, Row, Col} from 'react-bootstrap'
 
 export default function NaviBar() {
     return (
@@ -14,7 +14,9 @@ export default function NaviBar() {
                 
                     <Nav className="navbar-links fw-bold">
                         <Nav.Link >Prices</Nav.Link>
-                        <Nav.Link >Learn</Nav.Link>
+                        <Nav.Link>Learn</Nav.Link>
+                            
+                       
                         <Nav.Link >Individuals</Nav.Link>
                         <Nav.Link >Businesses</Nav.Link>
                         <Nav.Link >Developers</Nav.Link>
@@ -23,7 +25,7 @@ export default function NaviBar() {
                
 
                 <Nav className="fw-bold">
-                    <Nav.Link className="d-inline-block align-top mt-2">Sign in</Nav.Link>
+                    <Nav.Link className="  signin d-inline-block align-top mt-2">Sign in</Nav.Link>
                    <Nav.Link> <Button className="button3" size="sm">Get started</Button></Nav.Link>
                 </Nav>
 

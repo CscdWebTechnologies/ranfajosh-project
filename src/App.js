@@ -11,6 +11,7 @@ import Section7 from './Components/Section7/Section7';
 import Footer9 from './Components/Footer/Footer'
 import Section8 from './Components/Section 8/Section8';
 import Section4 from './Components/Section 4/Section4';
+import Section1 from './Components/Section 1(Header)/Section1';
 
 
 
@@ -19,6 +20,7 @@ function App() {
     return(
         <div className="App">
         <Navbar/>
+        <Section1/>
         <TableSect/>
         <Section3/>
         <Heading1/>

@@ -1,0 +1,149 @@
+.section1{
+    display: flex;
+    flex-shrink: 0;
+    width: 100%;
+    margin: 0px auto;
+    padding: 24px 56px;
+    overflow: hidden;
+    max-width: 1142px;
+}
+
+.sectionCol{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.sectionRow1{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-top: 100px;
+    padding-bottom: 111px;
+    flex: 1 1 0%;
+}
+
+.sectionRow2{
+    display: flex;
+    padding-top: 36px;
+    padding-left: 25px;
+    justify-content: flex-end;
+    flex: 2 1 0%;
+}
+
+.jump{
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    flex-direction: row;
+    color: rgb(22, 82, 240);
+    font-weight: 600;
+}
+
+.svg1{
+    margin: 8px 8px 8px 0px;
+}
+
+.svg2{
+    margin-left: 8px;
+}
+
+.jump-head{
+    font-size: 62px;
+    font-weight: 600;
+    line-height: 1.15;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+.jump-sub{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.4;
+    margin-bottom: 32px;
+
+}
+
+.form-container{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    min-width: 480px;
+}
+
+.email-form{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.email-input{
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: row;
+    position: relative;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(236, 239, 241);
+    border-radius: 4px;
+    transition: all 0.15s ease 0s;
+    background: rgb(255, 255, 255);
+}
+
+.input-field{
+    z-index: 0;
+    flex: 1 1 0px;
+    width: 100%;
+    margin: 0px;
+    padding: 20px;
+    border: none;
+    border-radius: 3px;
+    background: none;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(5, 15, 25);
+}
+
+.sect1button{
+    margin-left: 12px;
+}
+
+.get-started-button{
+    position: relative;
+    width: 100%;
+    margin: 0px;
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    transition: all 80ms ease-in-out 0s;
+    padding: 24px;
+    font-size: 16px;
+    border: 1px solid rgb(22, 82, 240);
+    background-color: rgb(22, 82, 240);
+}
+
+.button-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    pointer-events: none;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+}
+
+.button-content1{
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.terms-apply{
+    font-size: 9px;
+    margin-top: 12px;
+    text-decoration: underline;
+}
+
+.svg-3{
+    height: 600px;
+    width: auto;
+}

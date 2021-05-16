@@ -33,7 +33,9 @@ function TableSect() {
                               <Col xs={3}  className="p-2"><img width="30px" height="30px" src={items.Image}/> {items.Name}<span className="abb">{items.abb}</span></Col>
                               <Col xs={2}  className="p-2">{items.Price}</Col>
                               <Col xs={1}  className="p-2"><span className="change">{items.Change}</span></Col>
-                              <Col xs={2}  className="p-2">{items.Chart}</Col>
+                              <Col xs={2}  className="p-2"> 
+                              
+                                 </Col>
                               <Col xs={1}  className="p-2"><Button variant="success">{items.Trade}</Button></Col>
                               <Col xs={1}  className="p-2"> </Col>
                           </Row>

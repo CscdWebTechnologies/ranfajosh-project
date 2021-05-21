@@ -7,7 +7,7 @@ export const TableContent =[
         'abb': 'BTC',
         'Price':'GHS 327,870.15',
         'Change':'+1.60%',
-        'Chart':'',
+        'Chart': '',
         'Trade':'Buy'
     },
 
